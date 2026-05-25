@@ -1,0 +1,9 @@
+import streamlit as st
+st.set_page_config(page_title="SpeedTok Brou", page_icon="⚡")
+st.title("⚡ SpeedTok by Brou")
+st.image("https://i.imgur.com/8tK1Z9G.jpg")
+st.write("**@Brou_ICK** : Coulage poteaux R+1 #BTS2026")
+st.write("❤️ 247  💬 12  📤 Partager")
+if st.button("⚡ SCAN SPEEDMETRE"):
+    st.success("SpeedTok: 5 éléments détectés ! Béton ≈ 0.6m³")
+st.caption("SpeedTok © 2026 - BTS 1 Génie Civil ICK Bouaké 🇨🇮")
